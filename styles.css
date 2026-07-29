@@ -1,4 +1,6 @@
-
+h1 {
+    font-size: clamp(2rem, 8vw, 6rem);
+}
 
 /** Media Queries **/
 
